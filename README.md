@@ -2,7 +2,8 @@
 A project viewer I created as a Barba.js experiment
 
 ## Notes
-At the moment the styles are only written in CSS and the Javascript isn't in ES6, I may update this in the future.
+- This needs to be run on a Local server to work
+- At the moment the styles are only written in CSS and the Javascript isn't in ES6, I may update this in the future.
 
 ## Plugins
 - Barba.js
